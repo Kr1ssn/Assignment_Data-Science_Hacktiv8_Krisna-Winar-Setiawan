@@ -1,0 +1,5 @@
+Assignment 1 MSIB Batch 4 Phyton for Data Science Krisna Winar Setiawan
+https://github.com/Kr1ssn/PYTNAssgn_1_04_Krisna-Winar-Setiawan.git
+
+Analisis Keseluruhan data
+Dataset ini memiliki 7 Atribut/feature terdapat 9 kategori major dan 32 jenis kejahatan kategori minor dari periode tahun 2008 - 2016. variable value merupakan satu satunya variabel numeric pada dataset. var value mewakili jumlah laporan bulanan kategori kejahatan pada setiap wilayah dengan unique valuenya 247, maximal value 309 dan minimal value adalah 0 . Data hasil Pie chart diatas kita dapat melihat bahwa kejahatan dengan jumlah tertinggi pada major crime category adalah Theft and Handling dengan persentase 41.3%, dan diikuti Violence Against the Person yang mengambil tempat kedua dengan persentase 24.2%. Pada Bar chart diatas menampilkan hasil bahwa Theft from motor Vehicle, common assault dan pencurian lainnya menjadi kejahatan kategori minor terbanyak dengan total kasus 522180 dan jumlah kejahatan kategori minor paling sedikit kasusnya adalah Rape dengan total kasus 27000 per tahun 2008 - 2016
