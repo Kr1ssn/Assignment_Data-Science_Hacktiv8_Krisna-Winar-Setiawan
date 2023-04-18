@@ -1,6 +1,7 @@
 # Assignment_Data-Science_Hacktiv8_Krisna-Winar-Setiawan
 # PYTN_Assgn_1_04_Krisna Winar Setiawan
-Dataset Overview;
+Dataset Overview
+
 This data, represented by the file london_crime_by_lsoa.csv, covers the number of criminal reports by month, LSOA borough, and major/minor category from Jan 2008-Dec 2016 in Greater London (central London and the surrounding metropolitan area) by providing 13,490,604 samples with 7 variables each.
 The variables lsoa_code, borough, major_category, minor_category, year and month are categorical variables, while value is a discrete numerical variable. The variables' meanings are the followings:
 lsoa_code: code for Lower Super Output Area in Greater London; borough: common name for London borough; major_category: high level categorization of crime; minor_category: low level categorization of crime within major category; year: year of reported counts, 2008-2016; month: month of reported counts, 1-12; value: monthly reported count of categorical crime in given borough;
