@@ -42,5 +42,5 @@ The smallest datasets are provided to test more computationally demanding machin
 
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
-# Analisis Keseluruhan
+## Analisis Keseluruhan
 Untuk Hasil akhiir Classification algoritma Logistic Regression memiliki performa yang lebih baik dari algoritma yang lain seperti SVM, KNN, dan DT. Hasil classification diatas dapat dilihat bahwa proses klasifikasi dengan dataset imbalanced menghasilkan accuracy sebesar 0.91. Serta hasil klasifikasi setelah dilakukan balancing dataset menggunakan metode oversampling SMOTE menghasilkan accuracy sebesar 0.84.
